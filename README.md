@@ -7,5 +7,3 @@ The experience follows a flock of birds across a timeline, each representing a r
 Rather than presenting biodiversity loss through numbers alone, the project uses data, sound and narrative to create space for reflection, grief and connection.
 
 **Built with:** Blender · Python · React
-
-## About the experience
